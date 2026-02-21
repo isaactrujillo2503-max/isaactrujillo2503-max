@@ -1,13 +1,14 @@
 # ¡Hola, soy Isaac Trujillo! 👋
 
 <p align="center">
-  <img src="https://denvercoder9-socialify.vercel.app/api/isaactrujillo2503-max/isaactrujillo2503-max/image?description=Mobile%20Developer%20%7C%20Software%20Enthusiast&font=Inter&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Banner Isaac" width="640" />
+  <img src="https://img.shields.io/badge/ISAAC_DEVS-MOBILE_DEVELOPER-8a2be2?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/SKILLS-LILA_Y_AZUL-00b4d8?style=for-the-badge" />
 </p>
 
 ### 🚀 Sobre mí
-- 📱 **Mobile Developer** en formación.
-- 🌱 Aprendiendo sobre desarrollo de software y nuevas tecnologías.
-- ⚡ Me apasiona crear soluciones innovadoras.
+- 📱 **Mobile Developer** en formación (Flutter & Dart).
+- 🌱 Aprendiendo desarrollo de software para soluciones reales.
+- ⚡ Enfocado en crear código limpio y funcional.
 
 ### 🛠️ Tecnologías
 <p align="left">
@@ -15,3 +16,4 @@
 </p>
 
 ---
+<p align="center">En busca de nuevas oportunidades laborales</p>
