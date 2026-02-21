@@ -27,4 +27,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->### 📊 Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isaactrujillo2503-max&show_icons=true&theme=tokyonight" alt="Stats de Isaac" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaactrujillo2503-max&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</p>
