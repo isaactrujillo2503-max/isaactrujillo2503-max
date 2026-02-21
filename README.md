@@ -1,7 +1,7 @@
 # ¡Hola, soy Isaac Trujillo! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=8a2be2&secondaryColor=00b4d8&height=200&section=header&text=ISAAC%20DEVS&fontSize=70&fontColor=ffffff" alt="Banner Isaac" />
+  <img src="https://denvercoder9-socialify.vercel.app/api/isaactrujillo2503-max/isaactrujillo2503-max/image?description=Mobile%20Developer%20%7C%20Software%20Enthusiast&font=Inter&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Banner Isaac" width="640" />
 </p>
 
 ### 🚀 Sobre mí
