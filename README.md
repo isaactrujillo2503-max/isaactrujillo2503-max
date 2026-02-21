@@ -1,7 +1,7 @@
-# ¡Hola, soy Isaac Trujillo! 👋
+# ¡Hola, soy Isaac ! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=8a2be2&secondaryColor=00b4d8&height=250&section=header&text=@ISAACDEVS&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://socialify.git.ci/isaactrujillo2503-max/isaactrujillo2503-max/image?description=Mobile%20Developer%20%7C%20Software%20Enthusiast&font=Inter&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Banner Isaac" width="640" height="320" />
 </p>
 
 ### 🚀 Sobre mí
@@ -14,8 +14,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,flutter,dart" />
 </p>
 
-### 📊 Mis Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaactrujillo2503-max&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaactrujillo2503-max&layout=compact&theme=tokyonight" height="150" />
-</p>
+---
+
+*Nota: Si las estadísticas siguen fallando, es mejor no ponerlas por ahora para que tu perfil no se vea con errores ante un reclutador.*
