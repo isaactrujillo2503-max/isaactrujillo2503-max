@@ -1,19 +1,15 @@
 # ¡Hola, soy Isaac Trujillo! 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ISAAC_DEVS-MOBILE_DEVELOPER-8a2be2?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SKILLS-LILA_Y_AZUL-00b4d8?style=for-the-badge" />
+  <img src="banner-isaac.png" alt="Banner Isaac Trujillo" width="100%">
 </p>
 
 ### 🚀 Sobre mí
-- 📱 **Mobile Developer** en formación (Flutter & Dart).
-- 🌱 Aprendiendo desarrollo de software para soluciones reales.
-- ⚡ Enfocado en crear código limpio y funcional.
+- 📱 **Mobile Developer** en formación.
+- 🌱 Especializándome en **Flutter** y **Dart**.
+- ⚡ Me apasiona crear soluciones innovadoras y eficientes.
 
 ### 🛠️ Tecnologías
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,flutter,dart" />
 </p>
-
----
-<p align="center">En busca de nuevas oportunidades laborales</p>
