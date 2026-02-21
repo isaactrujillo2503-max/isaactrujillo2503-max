@@ -1,5 +1,6 @@
 # ¡Hola, soy Isaac Trujillo! 👋
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8f92f95e-a681-4226-b6e6-744e057855b8" />
+![Uploading Gemini_Generated_Image_fknerufknerufkne.png…]()
+
 
 
 <p align="center">
