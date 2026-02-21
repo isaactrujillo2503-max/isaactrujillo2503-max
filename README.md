@@ -1,7 +1,7 @@
-# ¡Hola, soy Isaac! 👋
+# ¡Hola, soy Isaac Trujillo! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=8a2be2&secondaryColor=00b4d8&height=250&section=header&text=@ISAACDEVS&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=8a2be2&secondaryColor=00b4d8&height=250&section=header&text=@ISAACDEVS&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Banner Isaac" />
 </p>
 
 ### 🚀 Sobre mí
