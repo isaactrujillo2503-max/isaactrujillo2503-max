@@ -1,10 +1,7 @@
-# ¡Hola, soy Isaac Trujillo! 👋
-![Uploading Gemini_Generated_Image_fknerufknerufkne.png…]()
-
-
+# ¡Hola, soy Isaac Trujillo!
 
 <p align="center">
-  <img src="banner-isaac.png" alt="Banner Isaac Trujillo" width="100%">
+  <img src="banner-isaac.png" alt="ISACDEVs Banner" width="100%">
 </p>
 
 ### 🚀 Sobre mí
