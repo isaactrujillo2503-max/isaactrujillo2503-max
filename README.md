@@ -10,25 +10,12 @@
 - ⚡ Me apasiona crear soluciones innovadoras.
 
 ### 🛠️ Tecnologías
-![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
 
----
-
-<!--
-**isaactrujillo2503-max/isaactrujillo2503-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->### 📊 Estadísticas
+### 📊 Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaactrujillo2503-max&show_icons=true&theme=tokyonight" alt="Stats de Isaac" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaactrujillo2503-max&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isaactrujillo2503-max&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Isaac" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaactrujillo2503-max&layout=compact&theme=tokyonight" alt="Lenguajes" height="150" />
 </p>
